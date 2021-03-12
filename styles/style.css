@@ -1,0 +1,13 @@
+.home {
+  background-color: darksalmon;
+}
+.services {
+  background-color: rgb(114, 201, 26);
+}
+.contact {
+  background-color: rgb(214, 218, 16);
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+}
